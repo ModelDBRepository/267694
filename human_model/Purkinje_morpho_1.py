@@ -546,8 +546,7 @@ class Purkinje_Morpho_1:
                     self.spine_head_aa_SC.append(e_head)
                 elif i_head in spine_sec_pf:
                     self.spine_head_pf.append(e_head)
-                elif i_head in spine_sec_CF:
-                    self.spine_head_CF.append(e_head)  
+
                     
                     
                     
